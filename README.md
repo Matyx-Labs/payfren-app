@@ -3,7 +3,9 @@ The mobile app that makes banking easier for you and accepting payments faster f
 
 Built using Expo, React Native, and Tamagui components.
 
-<img width="1158" alt="Screenshot 2023-06-29 at 12 40 05" src="https://github.com/payfren/app/assets/37705192/3b1c54fb-f7c6-42b1-b441-9052b28477df">
+<img width="450" alt="Screenshot from 2024-01-09 01-04-02" src="https://github.com/user-attachments/assets/8fd1cce3-1792-4831-9433-f1ae3fb0434d">
+
+<img width="340" alt="Screenshot from 2024-01-09 01-04-50" src="https://github.com/user-attachments/assets/d2efbc7d-55a3-4fbb-a205-f38b104a2987">
 
 ## Informații importante pentru jurizare (în română)
 * Numele echipei: Reactoor
